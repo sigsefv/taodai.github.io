@@ -1,0 +1,17 @@
+email:
+  id: 'taodaiv2@protonmail.com'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fa-envelope-square'
+
+twitter:
+  id: 'taodai_1'
+  href: 'https://www.twitter.com/'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter-square'
+
+  
+  hackthebox:
+  id: 't4o#92694'
+  href: 'https://app.hackthebox.com/'
+  title: 'HackTheBox'
